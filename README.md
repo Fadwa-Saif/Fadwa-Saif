@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Fadwa 🦉
 
-<!--
-**Fadwa-Saif/Fadwa-Saif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+full-stack developer • building web apps end to end
 
-Here are some ideas to get you started:
+> building stuff • breaking things • fixing them better
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## stack
+html • css • javascript • php • mysql • python • java
+
+---
+
+## goals
+- internship-ready developer skills  
+- clean, scalable project architecture  
+- strong backend + frontend integration  
+- ship more, overthink less 🚀  
+
+---
+
+## contact
+available for collaboration and learning projects ✉️
