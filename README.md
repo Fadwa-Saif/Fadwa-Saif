@@ -1,6 +1,8 @@
 ## Hi, I'm Fadwa 🦉
 
-full-stack developer • building web apps end to end
+Full-stack developer based in Casablanca, Morocco. I build web apps end to end, from the database to the UI, and I'm currently looking for a **junior full-stack or internship opportunity**.
+
+🌐 [Portfolio](https://fadwasaif.vercel.app/) · 💼 [LinkedIn](YOUR_LINKEDIN_URL) · ✉️ saiffadoua@gmail.com
 
 > building stuff • breaking things • fixing them better
 
