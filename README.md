@@ -14,7 +14,7 @@ Full-stack developer based in Casablanca, Morocco. I build web apps end to end, 
 |---|---|
 | **Frontend** | React, JavaScript, HTML, CSS |
 | **Backend** | Laravel, PHP, Spring Boot, Java |
-| **Database** | MySQL |
+| **Database** | MySQL, MongoDB |
 | **DevOps / Auth** | Docker, JWT |
 | **ML** | Python, Jupyter (transfer learning projects) |
 
