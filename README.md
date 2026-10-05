@@ -8,19 +8,22 @@ Full-stack developer based in Casablanca, Morocco. I build web apps end to end, 
 
 ---
 
-## stack
-html • css • javascript • php • mysql • python • java
+### Tech stack
+
+| | |
+|---|---|
+| **Frontend** | React, JavaScript, HTML, CSS |
+| **Backend** | Laravel, PHP, Spring Boot, Java |
+| **Database** | MySQL |
+| **DevOps / Auth** | Docker, JWT |
+| **ML** | Python, Jupyter (transfer learning projects) |
+
 
 ---
 
-## goals
-- internship-ready developer skills  
-- clean, scalable project architecture  
-- strong backend + frontend integration  
-- ship more, overthink less 🚀  
+### Goals
 
----
-
-## contact
-available for collaboration and learning projects ✉️
-email: saiffadoua@gmail.com
+- Growing into a solid junior full-stack developer
+- Writing clean, scalable project architecture
+- Building strong backend + frontend integration
+- Available for collaboration and learning projects
